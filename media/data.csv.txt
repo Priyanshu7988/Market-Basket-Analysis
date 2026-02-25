@@ -1,0 +1,12 @@
+Transaction,Item
+1,Bread
+1,Milk
+1,Butter
+2,Bread
+2,Butter
+3,Milk
+3,Bread
+4,Milk
+4,Butter
+5,Bread
+5,Milk
